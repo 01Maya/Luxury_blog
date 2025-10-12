@@ -2,6 +2,15 @@
 # Luxe Blog  
 
 Premium content for modern minds. Discover insights that inspire and inform with a clean, elegant, and fully responsive blog UI.  
+
+---
+
+# Preview
+
+https://luxury-blog-01.vercel.app/
+
+# Screenshot
+
 ![Image](https://github.com/user-attachments/assets/83044744-5882-4b0a-bf68-3bf0ab9cac9a)
 
 ---
