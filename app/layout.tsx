@@ -18,7 +18,6 @@ const sourceSans = Source_Sans_3({
 export const metadata: Metadata = {
   title: "Luxe Blog - Premium Content & Insights",
   description: "A modern, elegant blog featuring premium content and insights",
-  generator: "v0.dev",
 }
 
 export default function RootLayout({
