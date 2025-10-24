@@ -42,15 +42,15 @@ https://luxury-blog-01.vercel.app/
 ## 🔧 Installation & Setup  
 
 ```bash
-# 1️⃣ Clone the repository
+ 1️⃣ Clone the repository
 git clone https://github.com/yourusername/luxeblog.git
 
-# 2️⃣ Navigate into the project folder
+ 2️⃣ Navigate into the project folder
 cd luxeblog
 
-# 3️⃣ Install dependencies
+ 3️⃣ Install dependencies
 npm install
 
-# 4️⃣ Run the development server
+ 4️⃣ Run the development server
 npm run dev
 
