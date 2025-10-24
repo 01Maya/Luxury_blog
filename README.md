@@ -5,16 +5,6 @@ Premium content for modern minds. Discover insights that inspire and inform with
 
 ---
 
-# Preview
-
-https://luxury-blog-01.vercel.app/
-
-# Screenshot
-
-![Image](https://github.com/user-attachments/assets/83044744-5882-4b0a-bf68-3bf0ab9cac9a)
-
----
-
 ## 🚀 Description  
 Luxe Blog is a modern, responsive, and elegant blog website built with **Next.js**, **Tailwind CSS**, **Framer Motion**, and **ShadCN UI**.  
 It features a premium look and feel with smooth animations, interactive elements, and a focus on clean typography.  
@@ -37,6 +27,15 @@ It features a premium look and feel with smooth animations, interactive elements
 - **Styling:** Tailwind CSS  
 - **Animations:** Framer Motion  
 - **UI Components:** ShadCN UI  
+
+---
+# Preview
+
+https://luxury-blog-01.vercel.app/
+
+# Screenshot
+
+![Image](https://github.com/user-attachments/assets/83044744-5882-4b0a-bf68-3bf0ab9cac9a)
 
 ---
 
