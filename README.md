@@ -43,7 +43,7 @@ https://luxury-blog-01.vercel.app/
 
 ```bash
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/luxeblog.git
+   git clone https://github.com/yourusername/luxeblog.git
 
 2️⃣ Navigate into the project folder
 cd luxeblog
