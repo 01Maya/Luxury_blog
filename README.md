@@ -52,5 +52,5 @@ https://luxury-blog-01.vercel.app/
    npm install
 
 4️⃣ Run the development server
-npm run dev
+   npm run dev
 
