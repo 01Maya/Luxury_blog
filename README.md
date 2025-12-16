@@ -46,7 +46,7 @@ https://luxury-blog-01.vercel.app/
    git clone https://github.com/yourusername/luxeblog.git
 
 2️⃣ Navigate into the project folder
-cd luxeblog
+   cd luxeblog
 
 3️⃣ Install dependencies
 npm install
