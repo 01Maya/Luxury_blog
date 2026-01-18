@@ -33,7 +33,7 @@ It features a premium look and feel with smooth animations, interactive elements
 
 https://luxury-blog-01.vercel.app/
 
-# Screenshot
+# Screenshot 📸
 
 ![Image](https://github.com/user-attachments/assets/83044744-5882-4b0a-bf68-3bf0ab9cac9a)
 
