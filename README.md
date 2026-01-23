@@ -55,3 +55,5 @@ https://luxury-blog-01.vercel.app/
    npm run dev
 
 ---
+
+Premium content for modern minds. 💎
