@@ -54,8 +54,8 @@ https://luxury-blog-01.vercel.app/
 4️⃣ Run the development server
    npm run dev
 
----
 
+```
 
 
 ---
