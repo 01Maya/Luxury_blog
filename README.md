@@ -29,7 +29,7 @@ It features a premium look and feel with smooth animations, interactive elements
 - **UI Components:** ShadCN UI  
 
 ---
-#🔍 Preview
+# Preview 🔍
 
 https://luxury-blog-01.vercel.app/
 
