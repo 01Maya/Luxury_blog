@@ -59,7 +59,6 @@ https://luxury-blog-01.vercel.app/
 
 
 ---
-Luxury blog 
 
 💡Premium content for modern minds.✨💎
 
