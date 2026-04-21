@@ -5,7 +5,7 @@ Premium content for modern minds. Discover insights that inspire and inform with
 
 ---
 
-## 🚀 Description  
+## 🚀 Description  🪄
 Luxe Blog is a modern, responsive, and elegant blog website built with **Next.js**, **Tailwind CSS**, **Framer Motion**, and **ShadCN UI**.  
 It features a premium look and feel with smooth animations, interactive elements, and a focus on clean typography.  
 
