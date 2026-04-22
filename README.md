@@ -11,7 +11,7 @@ It features a premium look and feel with smooth animations, interactive elements
 
 ---
 
-## ✨ Features  
+## ✨ Features  🎁
 - 📱 **Responsive Design** – Optimized for all devices (desktop, tablet, mobile).  
 - 🎨 **Clean & Elegant UI** – Minimal, modern, and user-friendly.  
 - 📰 **Latest Posts & Featured Articles** – Showcase trending and curated content.  
