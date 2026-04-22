@@ -22,7 +22,7 @@ It features a premium look and feel with smooth animations, interactive elements
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  ⚙️
 - **Framework:** Next.js  
 - **Styling:** Tailwind CSS  
 - **Animations:** Framer Motion  
